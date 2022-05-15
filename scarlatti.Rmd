@@ -1,0 +1,45 @@
+---
+title: "Scarlatti og sónöturnar"
+author: "Matthías Kormáksson"
+date: "18. janúar 2022"
+output: 
+  html_document
+bibliography: references.bib
+csl: chicago-author-date.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Inngangur
+
+Samkvæmt @arni1 (hér eftir ÁHIsaga) var *Inviolata* eitt dáðasta verk Josquins alla 16. öldina og var það meginástæða þess að höfundur þessarar ritgerðar ákvað að rannsaka verkið nánar. Ekki sakaði heldur að mótettan er eitt fegursta tónverk endurreisnartímabilsins að mati höfundar. Áður en lengra er haldið skulum við hlýða á lokakafla verksins í hugljúfum flutningi kontratenórsins Carlos Mena og harmonikuleikarans Iñaki Alberdi. Eftirfarandi nútíma útsetning undirstrikar skýrt hve tímalaus þessi tónlist Josquins er:
+
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eOEZEfjRnwA" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Í framhaldinu verður ævi Domenico Scarlatti gerð stutt skil og síðan verður fjallað um tónlist hans, þá sér í lagi sónöturnar hans.
+
+## Hver var Domenico Scarlatti?
+
+
+
+## Tónlist Scarlatti
+
+Scarlatti samdi ýmsa tónlist, t.d. óperur. 
+
+### Sónöturnar
+
+
+
+## Lokaorð
+
+Hver svo sem ásetningur Josquins var við gerð mótettunnar *Inviolata* þá er ljóst að útkoman (eftir aðlaganir og úrfellingarmerki) var einfaldlega stórkostleg. Mótettan er tæknilega  margslungin samanber eltingaleik keðjusöngsins og á sama tíma svo hugljúf og falleg. Við greiningu tónlistar og texta er ljóst að töluverð vinna hefur farið í að túlka textann með viðeigandi blæbrigðum í tónum (og gera kollegum sínum grikk ef kenning @owen er rétt). Slík greining getur verið áminning um mikilvægi þess að leggja metnað í að þýða undirliggjandi latneska texta rétt, því tónlist Josquins var beinlínis samin með það að markmiði að túlka orð textanna. Við ljúkum ritgerðinni á því að hlýða á mótettuna í heild sinni. Í myndbandinu hér fyrir neðan heyrum við flutning fimm radda kórs sem kallar sig Stile Antico. [Hér](https://josquin.stanford.edu/cgi-bin/jrp?a=notationWithEditWithText&f=Jos2404) má finna nótur til að lesa með í útgáfu Josquin-rannsóknarverkefnisins í Stanford háskóla. Vert er að fylgjast með keðjusöng tenóranna tveggja og fylgjast með ómblíðum hljóminum sem heyrist undir latneska orðinu dulcisona þegar altinn syngur það fyrst (tenórinn syngur orðið með B-i á mínútu 4:13 og altinn með H-i á mínútu 4:17). Svo er að sjálfsögðu um að gera að njóta ljúfrar tónlistarinnar um leið:
+
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4-5yWDliZZw" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Heimildaskrá
