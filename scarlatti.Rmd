@@ -14,29 +14,38 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Inngangur
 
-Samkvæmt @arni1 (hér eftir ÁHIsaga) var *Inviolata* eitt dáðasta verk Josquins alla 16. öldina og var það meginástæða þess að höfundur þessarar ritgerðar ákvað að rannsaka verkið nánar. Ekki sakaði heldur að mótettan er eitt fegursta tónverk endurreisnartímabilsins að mati höfundar. Áður en lengra er haldið skulum við hlýða á lokakafla verksins í hugljúfum flutningi kontratenórsins Carlos Mena og harmonikuleikarans Iñaki Alberdi. Eftirfarandi nútíma útsetning undirstrikar skýrt hve tímalaus þessi tónlist Josquins er:
+Ítalska tónskáldið Domenico Scarlatti er flestum ef ekki öllum hljómborðshljóðfæraleikum kunnur. Í aðalnámskrá tónlistarskóla fyrir hljómborðshljóðfæri frá árinu 2002 má finna nafn hans koma fyrir í listum yfir tónverk fyrir miðstig og framhaldsstig á píanó, sembal og harmoniku. Þótt að nafn hans megi ekki finna í námsskránni fyrir orgel þá samdi Scarlatti engu að síður nokkrar sónötur fyrir orgel og á [YouTube](https://youtube.com) má finna fjöldann allan af upptökum af verkum Scarlattis leikin á orgel. Hér fyrir neðan má finna upptöku af organistanum Jean-Baptiste Monnot leika sónötu í D-dúr, K45 á orgelið í St. Ouen kirkjunni í Rouen, Frakklandi sem var smíðað af sögufræga franska orgelsmiðnum [Aristide Cavaillé Coll](https://en.wikipedia.org/wiki/Aristide_Cavaill%C3%A9-Coll):
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOEZEfjRnwA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Í framhaldinu verður ævi Domenico Scarlatti gerð stutt skil og síðan verður fjallað um tónlist hans, þá sér í lagi sónöturnar hans.
+Þetta verk er ekki samið sérstaklega fyrir orgel en hljómar samt einstaklega fallega á Cavaillé-Coll orgelið þar sem flautur hljóðfærisins gefa laginu gleðilegan og ljúfan brag rétt eins og fuglar væru að syngja á sólríkum degi. 
+
+Í þessari ritgerð mun ég fjalla örlítið um ævi Domenico Scarlatti og í framhaldinu ræða tónsmíðar hans, þá aðallega sónöturnar hans sem henta einkar vel sem bæði æfingar og tónleikaverk fyrir hljómborðshljóðfæri. Ég mun leitast við að sýna fjölbreytileikann í sónötum hans með því að gefa tóndæmi frá öllum helstu hljómborðshljóðfærunum. 
 
 ## Hver var Domenico Scarlatti?
 
-
+Domenico Scarlatti (1685-1757) var jafnaldri bæði Handels og Bach og fæddur í Napólí á Ítalíu (@arni1). Faðir hans Alessandro Scarlatti var frægt óperutónskáld og Domenico hefur greinilega erft tónlistarhæfileika föður síns og fengið góða tilsögn því hann var ekki nema 17 ára gamall þegar hann fékk sína fyrstu óperu færða upp í heimabæ sínum. Árið 1705 sendi faðir hans hann til Feneyja að því er talið til að læra hjá tónskáldinu [Francesco Gasparini](https://en.wikipedia.org/wiki/Francesco_Gasparini). Þar er jafnvel talið að Scarlatti hafi stofnað til vinskapar við Handel, @britannica.
 
 ## Tónlist Scarlatti
 
-Scarlatti samdi ýmsa tónlist, t.d. óperur. 
-
+Þótt að Domenico Scarlatti hafi á endanum ekki fetað í fótspor föður síns og lagt óperusmíðar fyrir sig þá skildi hann engu að síður eftir sig nokkrar óperur, @britannica. Sömuleiðis samdi hann nokkur kirkjutónverk á lífsleiðinni
 ### Sónöturnar
+
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mKWzMEw1LRU" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SUSbZhccN8c" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 
 ## Lokaorð
 
-Hver svo sem ásetningur Josquins var við gerð mótettunnar *Inviolata* þá er ljóst að útkoman (eftir aðlaganir og úrfellingarmerki) var einfaldlega stórkostleg. Mótettan er tæknilega  margslungin samanber eltingaleik keðjusöngsins og á sama tíma svo hugljúf og falleg. Við greiningu tónlistar og texta er ljóst að töluverð vinna hefur farið í að túlka textann með viðeigandi blæbrigðum í tónum (og gera kollegum sínum grikk ef kenning @owen er rétt). Slík greining getur verið áminning um mikilvægi þess að leggja metnað í að þýða undirliggjandi latneska texta rétt, því tónlist Josquins var beinlínis samin með það að markmiði að túlka orð textanna. Við ljúkum ritgerðinni á því að hlýða á mótettuna í heild sinni. Í myndbandinu hér fyrir neðan heyrum við flutning fimm radda kórs sem kallar sig Stile Antico. [Hér](https://josquin.stanford.edu/cgi-bin/jrp?a=notationWithEditWithText&f=Jos2404) má finna nótur til að lesa með í útgáfu Josquin-rannsóknarverkefnisins í Stanford háskóla. Vert er að fylgjast með keðjusöng tenóranna tveggja og fylgjast með ómblíðum hljóminum sem heyrist undir latneska orðinu dulcisona þegar altinn syngur það fyrst (tenórinn syngur orðið með B-i á mínútu 4:13 og altinn með H-i á mínútu 4:17). Svo er að sjálfsögðu um að gera að njóta ljúfrar tónlistarinnar um leið:
+
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4-5yWDliZZw?start=31&end=221;" frameborder="0" allowfullscreen></iframe>
