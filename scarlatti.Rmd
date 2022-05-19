@@ -2,7 +2,7 @@
 title: "Scarlatti og sónöturnar"
 author: "Matthías Kormáksson"
 date: "18. janúar 2022"
-output: 
+output:
   html_document
 bibliography: references.bib
 csl: chicago-author-date.csl
@@ -14,32 +14,45 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Inngangur
 
-Ítalska tónskáldið Domenico Scarlatti er flestum ef ekki öllum hljómborðshljóðfæraleikum kunnur. Í aðalnámskrá tónlistarskóla fyrir hljómborðshljóðfæri frá árinu 2002 má finna nafn hans koma fyrir í listum yfir tónverk fyrir miðstig og framhaldsstig á píanó, sembal og harmoniku. Þótt að nafn hans megi ekki finna í námsskránni fyrir orgel þá samdi Scarlatti engu að síður nokkrar sónötur fyrir orgel og á [YouTube](https://youtube.com) má finna fjöldann allan af upptökum af verkum Scarlattis leikin á orgel. Hér fyrir neðan má finna upptöku af organistanum Jean-Baptiste Monnot leika sónötu í D-dúr, K45 á orgelið í St. Ouen kirkjunni í Rouen, Frakklandi sem var smíðað af sögufræga franska orgelsmiðnum [Aristide Cavaillé Coll](https://en.wikipedia.org/wiki/Aristide_Cavaill%C3%A9-Coll):
+Ítalska tónskáldið Domenico Scarlatti er flestum hljómborðshljóðfæraleikum kunnur. Í aðalnámskrá tónlistarskóla fyrir hljómborðshljóðfæri frá árinu 2002 má finna nafn hans koma fyrir í listum yfir tónverk fyrir miðstig og framhaldsstig á píanó, sembal og harmoniku. Þótt að nafn hans megi ekki finna í námsskránni fyrir orgel þá samdi Scarlatti engu að síður nokkrar sónötur fyrir orgel og á [YouTube](https://youtube.com) má finna fjöldann allan af upptökum af verkum Scarlattis leikin á orgel. Hér fyrir neðan má finna upptöku af organistanum Jean-Baptiste Monnot leika sónötu í D-dúr, K45 á orgelið í St. Ouen kirkjunni í Rouen, Frakklandi sem var smíðað af sögufræga franska orgelsmiðnum [Aristide Cavaillé Coll](https://en.wikipedia.org/wiki/Aristide_Cavaill%C3%A9-Coll):
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOEZEfjRnwA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Þetta verk er ekki samið sérstaklega fyrir orgel en hljómar samt einstaklega fallega á Cavaillé-Coll orgelið þar sem flautur hljóðfærisins gefa laginu gleðilegan og ljúfan brag rétt eins og fuglar væru að syngja á sólríkum degi. 
+Þetta verk er ekki samið sérstaklega fyrir orgel en hljómar samt einstaklega fallega á Cavaillé-Coll orgelið þar sem flautur hljóðfærisins gefa laginu gleðilegan og ljúfan blæ sem minnir á fuglasöng á sólríkum degi.
 
-Í þessari ritgerð mun ég fjalla örlítið um ævi Domenico Scarlatti og í framhaldinu ræða tónsmíðar hans, þá aðallega sónöturnar hans sem henta einkar vel sem bæði æfingar og tónleikaverk fyrir hljómborðshljóðfæri. Ég mun leitast við að sýna fjölbreytileikann í sónötum hans með því að gefa tóndæmi frá öllum helstu hljómborðshljóðfærunum. 
+Í þessari ritgerð mun ég fjalla örlítið um ævi Domenico Scarlatti og í framhaldinu ræða tónsmíðar hans, þá aðallega sónöturnar hans sem henta einkar vel sem bæði æfingar og tónleikaverk fyrir hljómborðshljóðfæri. Ég mun leitast við að sýna fjölbreytileikann í sónötum hans með því að gefa tóndæmi frá öllum helstu hljómborðshljóðfærunum.
 
 ## Hver var Domenico Scarlatti?
 
-Domenico Scarlatti (1685-1757) var jafnaldri bæði Handels og Bach og fæddur í Napólí á Ítalíu (@arni1). Faðir hans Alessandro Scarlatti var frægt óperutónskáld og Domenico hefur greinilega erft tónlistarhæfileika föður síns og fengið góða tilsögn því hann var ekki nema 17 ára gamall þegar hann fékk sína fyrstu óperu færða upp í heimabæ sínum. Árið 1705 sendi faðir hans hann til Feneyja að því er talið til að læra hjá tónskáldinu [Francesco Gasparini](https://en.wikipedia.org/wiki/Francesco_Gasparini). Þar er jafnvel talið að Scarlatti hafi stofnað til vinskapar við Handel, @britannica.
+Domenico Scarlatti (1685-1757) var jafnaldri bæði Handels og Bach og fæddur í Napólí á Ítalíu (@arni1). Faðir hans Alessandro Scarlatti var frægt óperutónskáld og Domenico hefur greinilega erft tónlistarhæfileika föður síns og fengið góða tilsögn því hann var ekki nema 17 ára gamall þegar hann fékk sína fyrstu óperu færða upp í heimabæ sínum. Árið 1705 sendi faðir hans hann til Feneyja að því er talið til að læra hjá tónskáldinu [Francesco Gasparini](https://en.wikipedia.org/wiki/Francesco_Gasparini). Þar er jafnvel talið að Scarlatti hafi stofnað til vinskapar við tónskáldið George Friedrich Handel (@britannica). Eftir dvöl sína í Feneyjum flutti Scarlatti til Rómar og þar starfaði hann meðal annars við Péturskirkjuna. Árið 1720 flytur hann svo til Portúgal þar sem hann verður meðal annars *maestro di capella* við dómkirkjuna í Lissabon og tekur hvorki við meira né minna en tónlistaruppeldi portúgölsku prinsessunnar Maríu Barböru. Henni fylgir hann svo til Spánar árið 1728 eftir að hún giftist krónprinsi Spánar sem síðar varð Ferdinand sjötti. Þar lifir Scarlatti og starfar við spænsku konungshirðina til dauðadags og það er einmitt þar sem hann semur gríðarlegan fjölda af sónötueinþáttungum fyrir sembal, 555 talsins (@arni1). Þessir sónötueinþáttungar verða arfleifð hans og önnur tónlist eftir hann hefur ekki hlotið sérstaklega mikla athygli.
 
 ## Tónlist Scarlatti
 
-Þótt að Domenico Scarlatti hafi á endanum ekki fetað í fótspor föður síns og lagt óperusmíðar fyrir sig þá skildi hann engu að síður eftir sig nokkrar óperur, @britannica. Sömuleiðis samdi hann nokkur kirkjutónverk á lífsleiðinni
+Þótt að Domenico Scarlatti hafi á endanum ekki fetað í fótspor föður síns og lagt óperusmíðar fyrir sig þá skildi hann engu að síður eftir sig nokkrar óperur. Sömuleiðis samdi hann nokkur kirkjutónverk á lífsleiðinni og má þar helst nefna 10 radda Stabat Mater sem mögulega var samið á Rómarárum hans (@britannica). Einnig má nefna Kantötu sem hann á að hafa samið fyrir portúgalska sendiráðið árið 1714 sem gæti hafa lagt grunninn að flutningi hans til Portúgal.
+
+Eins og áður sagði þá voru það 555 sembalsónötur hans sem áttu eftir að skapa honum mikilvægan sess í tónlistarmenningu síðari tíma. Hér á eftir mun ég stuttlega ræða form þessara sónata Scarlattis og gefa nokkur tóndæmi.
+
 ### Sónöturnar
+
+Sónötur Scarlatti eru mismunandi eins og þær eru margar og er tímaraðaða skrásetningin K1-555 yfirleitt notuð nútildags eftir útgáfu ameríska tónfræðingsins og semballeikarans Ralphs Kirkpatricks (sem er einmitt höfundur Britannicu-heimildarinnar í þessari ritgerð). Áður en lengra er haldið skulum við hlýða á eina af fyrstu sónötum Scarlattis sem er í d-moll (K9) og hefur verið gefið undirtitilinn "Pastorale" á seinni tímum. Sónatan er látlaus og einföld með undurfögrum línum í bland við trillur sem gefa henni fágað og glæsilegt heildaryfirbragð. Semballeikarinn David Louie leikur:
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mKWzMEw1LRU" frameborder="0" allowfullscreen></iframe>
 </div>
 
+Í framhaldinu skulum við strax hlusta á aðra sónötu í d-moll (K141) sem er alveg gjörólík þeirri sem við hlýddum á hér rétt í þessu. Í þetta sinn leikur harmonikuleikarinn Maciej Frackiewicz:
+
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SUSbZhccN8c" frameborder="0" allowfullscreen></iframe>
 </div>
+
+Hér er tónskáldið að skapa allt önnur hughrif og leifturhröðu endurtekningunum á sömu nótu hefur verið líkt við andalúsískt gítarspil eða kastaníettusmelli, (@arni1, @britannica).
+
+Spænsk áhrif eru eitt aðaleinkenni sónata Scarlattis og þar að auki þá var hann nýjungagjarn. Hann hikaði ekki við að hlaða ómstríðum tónum hverjum ofan á annan og lék sér að því að flakka á milli óskyldra tóntegunda (@arni1). Sömuleiðis prófaði hann sig áfram með tæknilega möguleika hljóðfærisins eins snögg handavíxl og að stökkva frá öðrum enda hljómborðsins yfir á hinn með leifturhraða.
+
+### Formið
 
 
 
