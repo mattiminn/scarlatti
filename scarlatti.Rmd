@@ -36,7 +36,7 @@ Domenico Scarlatti (1685-1757) var fæddur sama ár og tónskáldin George Fried
 
 ### Aðaleinkenni sónatanna
 
-Sónötur Scarlatti eru mismunandi eins og þær eru margar og verkin eru nútildags skrásett sem K1-K555 eftir útgáfu ameríska tónfræðingsins og semballeikarans Ralphs Kirkpatricks (sem er einmitt höfundur Britannicu-heimildarinnar sem ég notast við í þessari ritgerð). Áður en lengra er haldið skulum við hlýða á eina af fyrstu sónötum Scarlattis sem er í d-moll ([K9](https://s9.imslp.org/files/imglnks/usimg/c/c6/IMSLP133070-WIMA.9d5a-Scarlatti_Sonate_K.9.pdf)). Sónatan er látlaus og einföld með fögrum tónhugmyndum og línum í bland við trillur sem gefa henni fágað og glæsilegt heildaryfirbragð. Semballeikarinn David Louie leikur:
+Sónötur Scarlattis eru mismunandi eins og þær eru margar og verkin eru nútildags skrásett sem K1-K555 eftir útgáfu ameríska tónfræðingsins og semballeikarans Ralphs Kirkpatricks (sem er einmitt höfundur Britannicu-heimildarinnar sem ég notast við í þessari ritgerð). Áður en lengra er haldið skulum við hlýða á eina af fyrstu sónötum Scarlattis sem er í d-moll ([K9](https://s9.imslp.org/files/imglnks/usimg/c/c6/IMSLP133070-WIMA.9d5a-Scarlatti_Sonate_K.9.pdf)). Sónatan er látlaus og einföld með fögrum tónhugmyndum og línum í bland við trillur sem gefa henni fágað og glæsilegt heildaryfirbragð. Semballeikarinn David Louie leikur:
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SUSbZhccN8c" frameborder="0" allowfullscreen></iframe>
@@ -50,11 +50,11 @@ Sónötur Scarlatti eru mismunandi eins og þær eru margar og verkin eru nútil
 
 Hér skapar tónskáldið allt önnur hughrif og leifturhröðu endurtekningarnar á sömu nótu minna óneitanlega á andalúsískt gítarspil eða kastaníettusmelli. Tónfræðingar eru sammála um að slík spænsk áhrif hafi verið allsráðandi í sónötum Scarlattis (@arni1, @britannica) og Ralph Kirkpatrick gengur meira að segja svo langt að segja að það hafi engu spænsku tónskáldi (hvorki fyrr né síðar) tekist betur að fanga líf, dægurtónlist, og dansa Spánverja eins og ,,útlendingnum´´ Scarlatti tókst með sónötum sínum (@britannica). 
 
-Scarlatti var einnig mjög nýjungagjarn. Hann hikaði ekki við að hlaða ómstríðum tónum hverjum ofan á annan og lék sér að því að flakka á milli óskyldra tóntegunda (@arni1). Sömuleiðis prófaði hann sig áfram með tæknilega möguleika hljóðfærisins eins snögg handavíxl og að stökkva frá öðrum enda hljómborðsins yfir á hinn með leifturhraða.
+Scarlatti var einnig mjög nýjungagjarn. Hann hikaði ekki við að hlaða ómstríðum tónum hverjum ofan á annan og lék sér að því að flakka á milli óskyldra tóntegunda (@arni1). Sömuleiðis prófaði hann sig áfram með tæknilega möguleika sembalsins eins og snögg handavíxl og að stökkva frá öðrum enda hljómborðsins yfir á hinn með leifturhraða.
 
 ### Form sónatanna
 
-Það reyndist ekki auðvelt að finna heimildir sem lýsa algengasta formi sónata Scarlattis á aðgengilegan hátt. Besta lýsingin sem ég fann reyndist koma frá [umsögn semballeikarans Sergio Ciomei](https://www.challengerecords.com/products/1391601385) um geisladisk sinn ,,Scarlatti Sonatas´´ (@ciomei). Flestar sónatanna eru í tvískiptu formi: AABB, þar sem hvor kafli um sig skiptist í tvennt. Scarlatti hefur svo yfirleitt tvennan háttinn á:
+Það reyndist ekki auðvelt að finna heimildir sem lýsa algengasta formi sónata Scarlattis á aðgengilegan hátt. Besta lýsingin sem ég fann reyndist koma frá [umsögn semballeikarans Sergio Ciomei](https://www.challengerecords.com/products/1391601385) um geisladisk sinn ,,Scarlatti Sonatas´´ (@ciomei). Flestar sónata Scarlattis eru í tvískiptu formi: AABB, þar sem hvor kafli um sig skiptist í tvennt. Scarlatti hefur svo yfirleitt tvennan háttinn á:
 
 *(i)* Fyrri hluti A kaflans er í aðaltóntegund sónötunnar á meðan seinni hlutinn fer í aukatóntegund fimmta sætis V (ef sónatan er í moll þá er seinni hluti A kaflans í sammarka dúr). Í B kaflanum er þessu öfugt farið, þá er fyrri hlutinn í aukatóntegund fimmta sætis (eða sammarka dúr) á meðan seinni hlutinn fer aftur í aðaltóntegundina. Þetta form er svipað og það sem fyrirfinnst í dansþáttum barokksvítunnar.
 
