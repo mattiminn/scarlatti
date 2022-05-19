@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Inngangur
 
-Ítalska tónskáldið Domenico Scarlatti er flestum hljómborðshljóðfæraleikum kunnur. Í aðalnámskrá tónlistarskóla fyrir hljómborðshljóðfæri frá árinu 2002 má finna nafn hans koma fyrir í listum yfir tónverk fyrir miðstig og framhaldsstig á píanó, sembal og harmoniku. Þótt að nafn hans megi ekki finna í námsskránni fyrir orgel þá samdi Scarlatti engu að síður nokkrar sónötur fyrir orgel og á [YouTube](https://youtube.com) má finna fjöldann allan af upptökum af verkum Scarlattis leikin á orgel. Hér fyrir neðan má finna upptöku af organistanum Jean-Baptiste Monnot leika sónötu í D-dúr, K45 á orgelið í St. Ouen kirkjunni í Rouen, Frakklandi sem var smíðað af sögufræga franska orgelsmiðnum [Aristide Cavaillé Coll](https://en.wikipedia.org/wiki/Aristide_Cavaill%C3%A9-Coll):
+Ítalska tónskáldið Domenico Scarlatti er flestum hljómborðshljóðfæraleikum kunnur. Í aðalnámskrá tónlistarskóla fyrir hljómborðshljóðfæri frá árinu 2002 (@adalnamskra) má finna nafn hans koma fyrir í listum yfir tónverk fyrir miðstig og framhaldsstig á píanó, sembal og harmoniku. Þótt að nafn hans megi ekki finna í námskránni fyrir orgel þá samdi Scarlatti engu að síður nokkrar sónötur fyrir orgel og á [YouTube](https://youtube.com) má finna fjöldann allan af upptökum af verkum Scarlattis leikin á orgel. Hér fyrir neðan má finna upptöku af organistanum Jean-Baptiste Monnot leika sónötu í D-dúr ([K45](https://s9.imslp.org/files/imglnks/usimg/e/eb/IMSLP626453-PMLP332555-Sonata_K._45_(as_L._265).pdf)) á orgelið í St. Ouen kirkjunni í Rouen, Frakklandi sem var smíðað af sögufræga franska orgelsmiðnum [Aristide Cavaillé Coll](https://en.wikipedia.org/wiki/Aristide_Cavaill%C3%A9-Coll):
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOEZEfjRnwA" frameborder="0" allowfullscreen></iframe>
@@ -26,39 +26,47 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Hver var Domenico Scarlatti?
 
-Domenico Scarlatti (1685-1757) var jafnaldri bæði Handels og Bach og fæddur í Napólí á Ítalíu (@arni1). Faðir hans Alessandro Scarlatti var frægt óperutónskáld og Domenico hefur greinilega erft tónlistarhæfileika föður síns og fengið góða tilsögn því hann var ekki nema 17 ára gamall þegar hann fékk sína fyrstu óperu færða upp í heimabæ sínum. Árið 1705 sendi faðir hans hann til Feneyja að því er talið til að læra hjá tónskáldinu [Francesco Gasparini](https://en.wikipedia.org/wiki/Francesco_Gasparini). Þar er jafnvel talið að Scarlatti hafi stofnað til vinskapar við tónskáldið George Friedrich Handel (@britannica). Eftir dvöl sína í Feneyjum flutti Scarlatti til Rómar og þar starfaði hann meðal annars við Péturskirkjuna. Árið 1720 flytur hann svo til Portúgal þar sem hann verður meðal annars *maestro di capella* við dómkirkjuna í Lissabon og tekur hvorki við meira né minna en tónlistaruppeldi portúgölsku prinsessunnar Maríu Barböru. Henni fylgir hann svo til Spánar árið 1728 eftir að hún giftist krónprinsi Spánar sem síðar varð Ferdinand sjötti. Þar lifir Scarlatti og starfar við spænsku konungshirðina til dauðadags og það er einmitt þar sem hann semur gríðarlegan fjölda af sónötueinþáttungum fyrir sembal, 555 talsins (@arni1). Þessir sónötueinþáttungar verða arfleifð hans og önnur tónlist eftir hann hefur ekki hlotið sérstaklega mikla athygli.
+Domenico Scarlatti (1685-1757) var fæddur sama ár og tónskáldin George Friedrich Händel og Johann Sebastian Bach í Napólí á Ítalíu (@arni1). Faðir hans Alessandro Scarlatti var frægt óperutónskáld og Domenico hefur greinilega erft tónlistarhæfileika föður síns því hann var ekki nema 17 ára gamall þegar hann fékk sína fyrstu óperu færða upp í heimabæ sínum. Árið 1705 sendi faðir hans hann til Feneyja að því er talið til að læra hjá tónskáldinu [Francesco Gasparini](https://en.wikipedia.org/wiki/Francesco_Gasparini) (@britannica). Þar er jafnvel talið að Scarlatti hafi stofnað til vinskapar við Händel. Eftir dvöl sína í Feneyjum flutti Scarlatti til Rómar og þar starfaði hann meðal annars við Péturskirkjuna frægu. Árið 1720 flytur hann svo til Portúgal þar sem hann verður meðal annars *maestro di capella* við dómkirkjuna í Lissabon og tekur við tónlistaruppeldi portúgölsku prinsessunnar Maríu Barböru. Henni fylgir hann svo til Spánar árið 1728 eftir að hún giftist krónprinsi Spánar sem síðar varð Ferdinand sjötti. Þar lifir Scarlatti og starfar við spænsku konungshirðina til dauðadags og það er einmitt þar sem hann semur flestar af sónötum sínum fyrir sembal sem alls urðu 555 talsins (@arni1). Mögulega voru þessar sónötur samdar sem verkefni fyrir nemanda hans Maríu Barböru prinsessu, en árið 1738 birtust einmitt nokkrar þeirra á prentu undir yfirskriftinni Essercizi (Æfingar). Hvað svo sem því líður þá áttu þessir sónötueinþáttungar eftir að verða arfleifð hans. 
 
 ## Tónlist Scarlatti
 
-Þótt að Domenico Scarlatti hafi á endanum ekki fetað í fótspor föður síns og lagt óperusmíðar fyrir sig þá skildi hann engu að síður eftir sig nokkrar óperur. Sömuleiðis samdi hann nokkur kirkjutónverk á lífsleiðinni og má þar helst nefna 10 radda Stabat Mater sem mögulega var samið á Rómarárum hans (@britannica). Einnig má nefna Kantötu sem hann á að hafa samið fyrir portúgalska sendiráðið árið 1714 sem gæti hafa lagt grunninn að flutningi hans til Portúgal.
+Domenico Scarlatti ákvað á endanum að feta ekki í fótspor föður síns og leggja óperusmíðar fyrir sig en  skildi þó engu að síður eftir sig nokkrar óperur. Sömuleiðis samdi hann nokkur kirkjutónverk á lífsleiðinni og má þar helst nefna 10 radda Stabat Mater sem mögulega var samið á Rómarárum hans. Einnig má nefna kantötu sem hann á að hafa samið fyrir portúgalska sendiráðið árið 1714 sem gæti hafa lagt grunninn að flutningi hans til Portúgal nokkrum árum síðar (@britannica).
 
-Eins og áður sagði þá voru það 555 sembalsónötur hans sem áttu eftir að skapa honum mikilvægan sess í tónlistarmenningu síðari tíma. Hér á eftir mun ég stuttlega ræða form þessara sónata Scarlattis og gefa nokkur tóndæmi.
+Þegar litið er á almenna tónverkaskrá Scarlattis má ljóst vera að hér var enginn Bach eða Händel á ferð en 555 sembalsónötur tala nú samt sínu máli og áttu þær eftir að skapa honum sess á meðal frægustu tónskálda tónlistarsögunnar. Hér á eftir mun ég stuttlega lýsa aðaleinkennum og formi þessara sónata ásamt því að gefa nokkur tóndæmi.
 
-### Sónöturnar
+### Aðaleinkenni sónatanna
 
-Sónötur Scarlatti eru mismunandi eins og þær eru margar og er tímaraðaða skrásetningin K1-555 yfirleitt notuð nútildags eftir útgáfu ameríska tónfræðingsins og semballeikarans Ralphs Kirkpatricks (sem er einmitt höfundur Britannicu-heimildarinnar í þessari ritgerð). Áður en lengra er haldið skulum við hlýða á eina af fyrstu sónötum Scarlattis sem er í d-moll (K9) og hefur verið gefið undirtitilinn "Pastorale" á seinni tímum. Sónatan er látlaus og einföld með undurfögrum línum í bland við trillur sem gefa henni fágað og glæsilegt heildaryfirbragð. Semballeikarinn David Louie leikur:
+Sónötur Scarlatti eru mismunandi eins og þær eru margar og verkin eru nútildags skrásett sem K1-K555 eftir útgáfu ameríska tónfræðingsins og semballeikarans Ralphs Kirkpatricks (sem er einmitt höfundur Britannicu-heimildarinnar sem ég notast við í þessari ritgerð). Áður en lengra er haldið skulum við hlýða á eina af fyrstu sónötum Scarlattis sem er í d-moll ([K9](https://s9.imslp.org/files/imglnks/usimg/c/c6/IMSLP133070-WIMA.9d5a-Scarlatti_Sonate_K.9.pdf)). Sónatan er látlaus og einföld með fögrum tónhugmyndum og línum í bland við trillur sem gefa henni fágað og glæsilegt heildaryfirbragð. Semballeikarinn David Louie leikur:
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mKWzMEw1LRU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Í framhaldinu skulum við strax hlusta á aðra sónötu í d-moll (K141) sem er alveg gjörólík þeirri sem við hlýddum á hér rétt í þessu. Í þetta sinn leikur harmonikuleikarinn Maciej Frackiewicz:
+Í framhaldinu skulum við strax hlusta á aðra sónötu í d-moll ([K141](https://s9.imslp.org/files/imglnks/usimg/d/df/IMSLP626923-PMLP472479-Sonata_K._141_(as_L._422).pdf)) sem er alveg gjörólík þeirri fyrri. Í þetta sinn leikur harmonikuleikarinn Maciej Frackiewicz:
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SUSbZhccN8c" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Hér er tónskáldið að skapa allt önnur hughrif og leifturhröðu endurtekningunum á sömu nótu hefur verið líkt við andalúsískt gítarspil eða kastaníettusmelli, (@arni1, @britannica).
+Hér skapar tónskáldið allt önnur hughrif og leifturhröðu endurtekningarnar á sömu nótu minna óneitanlega á andalúsískt gítarspil eða kastaníettusmelli. Tónfræðingar eru sammála um að slík spænsk áhrif hafi verið allsráðandi í sónötum Scarlattis (@arni1, @britannica) og Ralph Kirkpatrick gengur meira að segja svo langt að segja að það hafi engu spænsku tónskáldi (hvorki fyrr né síðar) tekist betur að fanga líf, dægurtónlist, og dansa Spánverja eins og ,,útlendingnum´´ Scarlatti tókst með sónötum sínum (@britannica). 
 
-Spænsk áhrif eru eitt aðaleinkenni sónata Scarlattis og þar að auki þá var hann nýjungagjarn. Hann hikaði ekki við að hlaða ómstríðum tónum hverjum ofan á annan og lék sér að því að flakka á milli óskyldra tóntegunda (@arni1). Sömuleiðis prófaði hann sig áfram með tæknilega möguleika hljóðfærisins eins snögg handavíxl og að stökkva frá öðrum enda hljómborðsins yfir á hinn með leifturhraða.
+Scarlatti var einnig mjög nýjungagjarn. Hann hikaði ekki við að hlaða ómstríðum tónum hverjum ofan á annan og lék sér að því að flakka á milli óskyldra tóntegunda (@arni1). Sömuleiðis prófaði hann sig áfram með tæknilega möguleika hljóðfærisins eins snögg handavíxl og að stökkva frá öðrum enda hljómborðsins yfir á hinn með leifturhraða.
 
-### Formið
+### Form sónatanna
+
+Það reyndist ekki auðvelt að finna heimildir sem lýsa algengasta formi sónata Scarlattis á aðgengilegan hátt. Besta lýsingin sem ég fann reyndist koma frá [umsögn semballeikarans Sergio Ciomei](https://www.challengerecords.com/products/1391601385) um geisladisk sinn ,,Scarlatti Sonatas´´ (@ciomei). Flestar sónatanna eru í tvískiptu formi: AABB, þar sem hvor kafli um sig skiptist í tvennt. Scarlatti hefur svo yfirleitt tvennan háttinn á:
+
+*(i)* Fyrri hluti A kaflans er í aðaltóntegund sónötunnar á meðan seinni hlutinn fer í aukatóntegund fimmta sætis V (ef sónatan er í moll þá er seinni hluti A kaflans í sammarka dúr). Í B kaflanum er þessu öfugt farið, þá er fyrri hlutinn í aukatóntegund fimmta sætis (eða sammarka dúr) á meðan seinni hlutinn fer aftur í aðaltóntegundina. Þetta form er svipað og það sem fyrirfinnst í dansþáttum barokksvítunnar.
+
+*(ii)* Uppbygging sónötunnar er svipuð og lýst er hér að ofan í *(i)* en aftur á móti þegar kemur að B kaflanum þá er Scarlatti nýjungagjarnari. Í fyrri hluta B kaflans kemur alveg nýr og óháður kafli eða þá að tónskáldið vinnur með stef úr A kaflanum og skapar þátt sem gæti kallast þróun eða úrvinnsla. Síðan í seinni hluta B kaflans þá er seinna stef A kaflans endurtekið (alveg eins eða með smá breytingum) nema nú í aðaltóntegund lagsins sem gæti þá kallast ítrekun.
+
+Sumir hafa bent á að mögulega sé formið sem lýst er í *(ii)* fyrirrennari sónötuforms klassíska tímabilsins (@ciomei, @Hsieh) og óneitanlega eru líkindi þar á milli. Aftur á móti eins og @ciomei bendir á þá ítrekar Scarlatti aldrei fyrra stef A kaflans í B kaflanum og nær því kannski ekki að búa til jafn skýr ,,heimkomu´´ áhrif í aðaltóntegundinni eins og klassíska sónatan gerir. 
 
 
 
 ## Lokaorð
 
-
+Við endum þessa ritgerð á að hlusta á sónötu í E-dúr ([K380](https://s9.imslp.org/files/imglnks/usimg/7/7d/IMSLP691879-PMLP297350-keyboard_Sonata_in_E_major,_K.380.pdf)) sem fellur einmitt í sónötuformsflokk *(ii)* í kaflanum hér á undan. Það er við hæfi að leyfa píanómeistaranum Vladimir Horowitz enda þetta en hann er talinn hafa haft mikil áhrif á vinsældaraukningu Scarlattis á 20. öldinni (@arni1). Hér er Horowitz að leika á tónleikum í Carnegie Hall, New York og leikur sem uppklappslög tvær Scarlatti sónötur, sú fyrri K380. 
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4-5yWDliZZw?start=31&end=221;" frameborder="0" allowfullscreen></iframe>
